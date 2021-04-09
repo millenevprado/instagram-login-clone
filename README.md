@@ -8,6 +8,8 @@ Alterações feitas referentes ao projeto original proposto pela DIO:
 - Redirecionamento para a página Google Play;
 - Favicon adicionado.
 
+![capa](C:\Users\mille\Desktop\BOOTCAMP\Projetos\Instagram\img\capa.png)
+
 :woman_teacher: **Orientação**: Gabriela Pinheiro
 
 :woman_technologist: MILLENE VIANA PRADO
